@@ -2,7 +2,7 @@
 ## 👋 &nbsp;Hey there! I'm Benjun
 
 ### 👨🏻‍💻 &nbsp;About Me
-I’m a second-year CS student, I like building things through programming. I love experimenting with new ideas, trying out different technologies, and learning by actually making things. 
+I’m a second-year CS student, I like building things through programming, experimenting with new ideas, trying out different technologies, and learning by actually making things. 
 
 ### 🛠 &nbsp;Tech Stack
 
