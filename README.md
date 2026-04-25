@@ -39,9 +39,9 @@ I’m a second-year Computer Science student who loves building things through p
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="Benjun's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=benogania&show_icons=true&theme=tokyonight&hide_border=true" alt="Benjun's GitHub Stats" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="Benjun's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=benogania&theme=tokyonight&hide_border=true" alt="Benjun's GitHub Streak" />
 </div>
 
 ---
